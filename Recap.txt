@@ -1,0 +1,64 @@
+
+-------------------------------------------------
+Database
+Name : Dani
+Date of Birth : 12/12/12
+Age : 12
+Address : 12
+Status : 1
+Clinic : 1
+Doctor : 1
+Treatment Date : 12/12/12
+Medicine : obat
+Diagnose : SAkit
+Payment : 178500
+
+-------------------------------------------------
+
+-------------------------------------------------
+Database
+Name : Suandi
+Date of Birth : 12/12/12
+Age : 12
+Address : Jl Mekar
+Status : 1
+Clinic : 1
+Doctor : 1
+Treatment Date : 12/12/22
+Medicine : Obat
+Diagnose : Node
+Payment : 68500
+
+-------------------------------------------------
+
+-------------------------------------------------
+Database
+Name : asd
+Date of Birth : asd
+Age : 12
+Address : 12
+Status : 2
+Clinic : 2
+Doctor : 4216044
+Treatment Date : 12/12/12
+Medicine : obat
+Diagnose : sakit
+Payment : 57500
+
+-------------------------------------------------
+
+-------------------------------------------------
+Database
+Name : Edy
+Date of Birth : 20/2020
+Age : 12
+Address : Jl kontol
+Status : 1
+Clinic : 1
+Doctor : 1
+Treatment Date : 12/12/12
+Medicine : ayam
+Diagnose : Ayam
+Payment : 70500
+
+-------------------------------------------------
